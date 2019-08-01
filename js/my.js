@@ -24,4 +24,5 @@ function divi() {
     let Number2=parseInt(document.getElementById('number2').value);
     let Divi=Number1/Number2;
     document.getElementById('result').innerHTML="Result Division: "+ Divi;
+
 }
