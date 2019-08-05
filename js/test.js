@@ -1,5 +1,5 @@
 function setOutput(value) {
-    let Value = document.getElementById('output').value += value;
+    document.getElementById('output').value += value;
 
 }
 
